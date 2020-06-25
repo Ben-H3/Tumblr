@@ -4,7 +4,7 @@ This app uses networking to display photos found in the Humans of New York Tumbl
 
 Time spent: 5 hours spent in total
 
-## User Stories
+## Tumblr
 
 The following **required** functionality is complete:
 
@@ -19,7 +19,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented Tumblr:
 
 <img src='https://media.giphy.com/media/JOFhZOaCrGgOpDfs7C/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
