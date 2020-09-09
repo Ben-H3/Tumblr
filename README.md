@@ -1,4 +1,4 @@
-# Lab 1 - Tumblr
+# Tumblr
 
 This app uses networking to display photos found in the Humans of New York Tumblr page.
 
@@ -6,16 +6,11 @@ Time spent: 5 hours spent in total
 
 ## Tumblr
 
-The following **required** functionality is complete:
+The following features are implemented:
 
 - [x] Setup the XCode project
 - [x] Hook up the Tumblr API
 - [x] Build the Photo Feed
-
-Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
-
-1. Ways to improve the Tumblr UI
-2. Additional features that could be added to the app
 
 ## Video Walkthrough
 
